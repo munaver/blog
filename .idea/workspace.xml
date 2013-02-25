@@ -9,7 +9,7 @@
     <file path="/routes.rb" changelist="0818247e-0828-4b9a-9b74-dd6f50163e51" time="1361812891182" ignored="false" />
     <file path="/index.html.erb" changelist="0818247e-0828-4b9a-9b74-dd6f50163e51" time="1361812844728" ignored="false" />
     <file path="/post.rb" changelist="0818247e-0828-4b9a-9b74-dd6f50163e51" time="1361814744065" ignored="false" />
-    <file path="/Dummy.txt" changelist="0818247e-0828-4b9a-9b74-dd6f50163e51" time="1361817312197" ignored="false" />
+    <file path="/Dummy.txt" changelist="0818247e-0828-4b9a-9b74-dd6f50163e51" time="1361817374648" ignored="false" />
     <file path="/application.html.erb" changelist="0818247e-0828-4b9a-9b74-dd6f50163e51" time="1361817267701" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="26" selection-start="78" selection-end="78" vertical-scroll-proportion="0.071599044">
+            <state line="14" column="73" selection-start="260" selection-end="260" vertical-scroll-proportion="0.25059667">
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -623,7 +623,11 @@
       <created>1361817313516</created>
       <updated>1361817313516</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding layout styles">
+      <created>1361817377946</created>
+      <updated>1361817377946</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -799,7 +803,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="78" selection-end="78" vertical-scroll-proportion="0.071599044">
+        <state line="14" column="73" selection-start="260" selection-end="260" vertical-scroll-proportion="0.25059667">
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
